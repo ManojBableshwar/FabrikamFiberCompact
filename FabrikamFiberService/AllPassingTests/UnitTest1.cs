@@ -4,6 +4,8 @@ using System.Diagnostics;
 using System.Threading;
 
 
+//foo 
+
 namespace AllPassingTests
 {
     [TestClass]
